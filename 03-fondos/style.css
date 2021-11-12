@@ -1,0 +1,22 @@
+body {
+    background-color: #cccccc;
+    /*background-image: url(img/pattern1.jfif);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: left bottom;
+    color: white;*/
+}
+
+#caja {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: rgb(151, 157, 238);
+    color: white;
+}
+
+h2 {
+    color: red;
+    background-color: white;
+    background-image: url(img/pattern2.jfif);
+    border: 5px solid red;
+}
